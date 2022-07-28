@@ -1,0 +1,5 @@
+CORE:
+javascript
+SQL
+git 
+PHP
